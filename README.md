@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm wuxaye! 👋
 
-<!--
-**wuxaye/wuxaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with interests in various technologies and fields. Here you'll find a collection of my projects, contributions, and some information about me.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Dart, Kotlin, Java, C++
+- **Tools:** Git, Docker
+
+## 🌱 Currently Learning
+
+- Android
+- QT
+- AV(audio/video)
+
+## 📈 GitHub Stats
+
+![wuxaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuxaye&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** tiantianya116@163.com
+
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect. I'm always open to discussing new ideas and opportunities.
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊

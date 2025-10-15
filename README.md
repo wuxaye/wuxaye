@@ -1,4 +1,4 @@
-# Hi there, I'm wuxaye! 👋
+# Hi there, I'm Xaye! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in various technologies and fields. Here you'll find a collection of my projects, contributions, and some information about me.
 

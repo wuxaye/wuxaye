@@ -16,11 +16,11 @@
 
 ## 📈 GitHub 统计
 
-![wuxaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuxaye&show_icons=true&theme=radical)
+![GitHubCard](https://githubcard.com/wuxaye.svg)
 
 ## 📫 联系方式
 
-- **邮箱：** tiantianya116@163.com
+- **邮箱：** mn2934195@gmail.com
 
 ## 💬 欢迎交流！
 

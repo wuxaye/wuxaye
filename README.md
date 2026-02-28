@@ -24,4 +24,4 @@
 
 ## 💬 欢迎交流！
 
-机场推荐[科学上网]：[顶级机场](https://djjc.cfd/#/register?code=KU6LUmEj)
+机场推荐(小众高速)[科学上网]：[💎元宝 YB Airport](https://yuanbao.yuanbaojc.site/#/register?code=D9Yc845w)
